@@ -1,0 +1,485 @@
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"\u001b[0mGET /user \u001b[36m304\u001b[0m 86.818 ms - -\u001b[0m","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:06:19 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:06:19 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:39:56 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:40:26 +0000] \"POST /user HTTP/1.1\" 201 144","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:42:31 +0000] \"GET /user HTTP/1.1\" 200 341","service":"web-service"}
+{"context":"ExceptionsHandler","level":"error","message":"Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"User\"","service":"web-service","stack":["CastError: Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"User\"\n    at ObjectId.cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schema/objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schematype.js:1613:15)\n    at cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/cast.js:355:32)\n    at model.Query.Query.cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:4790:12)\n    at model.Query.Query._castConditions (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:2177:10)\n    at model.Query._findOne (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:2465:8)\n    at model.Query.exec (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:46:28"]}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:42:47 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 500 52","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"ExceptionsHandler","level":"error","message":"Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"User\"","service":"web-service","stack":["CastError: Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"User\"\n    at ObjectId.cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schema/objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/schematype.js:1613:15)\n    at cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/cast.js:355:32)\n    at model.Query.Query.cast (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:4790:12)\n    at model.Query.Query._castConditions (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:2177:10)\n    at model.Query._findOne (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:2465:8)\n    at model.Query.exec (/Users/rootz491/code/nestjs/first/node_modules/mongoose/lib/query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:46:28"]}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:44:39 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 500 52","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:46:25 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 200 144","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:18 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 400 85","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:20 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 400 85","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:22 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 400 85","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:32 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:32 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:47:34 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:48:37 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:48:50 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 400 85","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:50:06 +0000] \"GET /user/6403828a34c3d4760980669c HTTP/1.1\" 400 85","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:50:09 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:50:10 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::1 - - [04/Mar/2023:17:50:23 +0000] \"GET /user HTTP/1.1\" 304 -","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:41 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:43 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:44 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:44 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:44 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:45 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:45 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:45 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:50:45 +0000] \"POST /user HTTP/1.1\" 400 70","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"ExceptionsHandler","level":"error","message":"Cannot read properties of undefined (reading 'authorization')","service":"web-service","stack":["TypeError: Cannot read properties of undefined (reading 'authorization')\n    at AuthenticatedRequestPipe.transform (/Users/rootz491/code/nestjs/first/src/middlewares/auth.pipe.ts:24:35)\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/pipes/pipes-consumer.js:16:33\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at resolveParamValue (/Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:147:23)\n    at async Promise.all (index 0)\n    at pipesFn (/Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:150:13)\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:37:30\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-execution-context.js:46:28\n    at /Users/rootz491/code/nestjs/first/node_modules/@nestjs/core/router/router-proxy.js:9:17"]}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Mar/2023:17:51:58 +0000] \"POST /user HTTP/1.1\" 500 52","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"WinstonModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"DatabaseModule dependencies initialized","service":"web-service"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"web-service"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/user}:","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, POST} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, GET} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, PATCH} route","service":"web-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/user/:id, DELETE} route","service":"web-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"web-service"}
